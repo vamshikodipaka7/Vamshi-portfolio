@@ -1,2 +1,2 @@
 # vamsportfolio
-My ML and Finance portfolio
+My ML and Finance projects
