@@ -2,4 +2,4 @@
 
 My ML and Finance portfolio
 
-# Project 1: Titanic survival estimation
+# Project 1: Titanic survival prediction
