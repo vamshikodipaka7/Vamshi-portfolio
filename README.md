@@ -12,3 +12,7 @@ My ML and Finance portfolio
 * Cleaned data removing features that did not contribute or irrelevant to the survival of passengers.
 * Used scikit-learn logistic regression model to predict the survival of passengers in the test group.
 * Uploaded to kaggle and scored 77% accuracy.
+
+# Project 2: Clustering
+
+...
