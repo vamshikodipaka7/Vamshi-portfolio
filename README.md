@@ -17,7 +17,7 @@ Click on project to review Jupyter notebook code
 * Used scikit-learn logistic regression model to predict the survival of passengers in the test group.
 * Uploaded to kaggle and scored 77% accuracy.
 
-# [Project 2: Clustering](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/wineclustering.ipynb)
+# [Project 2: Wine Clustering](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/wineclustering.ipynb)
 
 * Unsupervised Learning
 * Dataset contains charactersitics of wines produced in 3 different regions in Italy.
