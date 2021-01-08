@@ -23,19 +23,13 @@ Click on project to review Jupyter notebook code
 * Principal Component Analysis is used to graph/plot and understand the clusters better.
 * For the dataset, MinMax scaling is done in order to get the most optimal cluster points and bring the examples together into a tighter cluster.
 * The clusters/scatter plots of data is shown below.
-<br />
 ![alt_text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/cluster%20scatter)
-<br />
 * Dataset contains charactersitics of wines produced in 3 different regions in Italy.
 * These wines even though produced in the same region have differnent characteristics, and the KMeans clustering algorithm can be used to classify different types.
 * The trained clusters were as follows:
-<br />
 ![alt_text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/trained%20clusters)
-<br />
 * Now, the test of these clusters is shown in the following figure
-<br />
 ![alt_text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/test%20clusters)
-<br />
 
 # [Project 3: Boston Housing](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/bostonhousing.ipynb)
 
