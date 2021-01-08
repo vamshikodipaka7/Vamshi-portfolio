@@ -23,25 +23,36 @@ Click on project to review Jupyter notebook code
 * Principal Component Analysis is used to graph/plot and understand the clusters better.
 * For the dataset, MinMax scaling is done in order to get the most optimal cluster points and bring the examples together into a tighter cluster.
 * The clusters/scatter plots of data is shown below.
+<br />
 ![alt_text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/cluster%20scatter)
+<br />
 * Dataset contains charactersitics of wines produced in 3 different regions in Italy.
 * These wines even though produced in the same region have differnent characteristics, and the KMeans clustering algorithm can be used to classify different types.
 * The trained clusters were as follows:
+<br />
 ![alt_text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/trained%20clusters)
+<br />
 * Now, the test of these clusters is shown in the following figure
+<br />
 ![alt_text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/test%20clusters)
+<br />
 
 # [Project 3: Boston Housing](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/bostonhousing.ipynb)
 
 * Supervised learning
 * The goal is to predict the median value of house owner prices given certain features in the dataset.
 * A simple linear regression yield good results but looking at the scatter plot of all features against price of the house, it was evident that the relation was polynomial.
-
+<br />
 ![alt text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/boston%20scatterplot)
+<br />
 Scatter plot
+<br />
 ![alt text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/boston%20histo%20scatter%20plot)
-Histogram+ Scatter plot
+<br />
+Histogram + Scatter plot
+<br />
 ![alt_text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/corelation%20matrix)
+<br />
 The corelation matrix among the features and their weights. A positive number shows that those combination of features add value to the price while negative says otherwise.
 
 * After testing some linear models, i.e. basic linear regression and regularised and polynomial regression, the best model is choosen according to the best score on the test set.
