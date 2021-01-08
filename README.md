@@ -24,3 +24,13 @@ Click on project to review Jupyter notebook code
 * These wines even though produced in the same region have differnent characteristics, and the KMeans clustering algorithm can be used to classify different types.
 * For the dataset, MinMax scaling is done in order to get the most optimal cluster points and bring the examples together into a tighter cluster.
 * Principal Component Analysis is used to graph/plot and understand the clusters better.
+
+# [Project 3: Boston Housing](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/bostonhousing.ipynb)
+
+* Supervised learning
+* The goal is to predict the median value of house owner prices given certain features in the dataset.
+* A simple linear regression yield good results but looking at the scatter plot of all features against price of the huse, it was evident that the relation was polynomial.
+
+![alt text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/boston%20scatterplot)
+![alt text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/boston%20histo%20scatter%20plot)
+![alt_text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/corelation%20matrix)
