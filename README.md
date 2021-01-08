@@ -42,17 +42,11 @@ Click on project to review Jupyter notebook code
 * Supervised learning
 * The goal is to predict the median value of house owner prices given certain features in the dataset.
 * A simple linear regression yield good results but looking at the scatter plot of all features against price of the house, it was evident that the relation was polynomial.
-<br />
 ![alt text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/boston%20scatterplot)
-<br />
-Scatter plot
-<br />
+* Scatter plot
 ![alt text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/boston%20histo%20scatter%20plot)
-<br />
-Histogram + Scatter plot
-<br />
+* Histogram + Scatter plot
 ![alt_text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/corelation%20matrix)
-<br />
-The corelation matrix among the features and their weights. A positive number shows that those combination of features add value to the price while negative says otherwise.
+* This is a corelation matrix among the features and their weights. A positive number shows that those combination of features add value to the price while negative says otherwise.
 
 * After testing some linear models, i.e. basic linear regression and regularised and polynomial regression, the best model is choosen according to the best score on the test set.
