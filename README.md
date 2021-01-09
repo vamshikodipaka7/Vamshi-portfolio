@@ -24,7 +24,7 @@ Click on project to review Jupyter notebook code
 * For the dataset, MinMax scaling is done in order to get the most optimal cluster points and bring the examples together into a tighter cluster.
 * The clusters/scatter plots of data is shown below.
 
-![alt_text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/cluster%20scatter.jpg)
+![alt_text](https://github.com/vamshikodipaka7/Vamshi-portfolio/blob/main/boston%20histo%20scatter%20plot.jpg?raw=true)
 
 * Dataset contains charactersitics of wines produced in 3 different regions in Italy.
 * These wines even though produced in the same region have differnent characteristics, and the KMeans clustering algorithm can be used to classify different types.
