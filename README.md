@@ -1,7 +1,7 @@
 # Vamshi-portfolio
 
 **About me:** <br />
-Hello, my name is Vamshi. The following are my projects in Machine Learning and Finance. I have started to learn ML seperate outside of my University study interests. I am really passionate in combining what I learn in economics and finance with Data Science. And the following are the projects starting with Data Science standalone and later finance projects.
+Hello, my name is Vamshi. The following are my projects in Machine Learning and Finance. I have started to learn ML seperate outside of my University study interests. I am passionate in interdisciplinary learnings from economics, finance, Data Science, and many more. And the following are the projects and my findings.
 <br /> <br />
 Click on project to review Jupyter notebook code
 <br/>
